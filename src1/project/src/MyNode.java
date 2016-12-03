@@ -4,7 +4,7 @@ package tree;
  * This is a node in a binary search tree. The node holds an integer value.
  *
  * @author Torbjorn Ekman
- * @see MyTree
+ * @see MyTree kasjhflasjdhfasijhasi
  */
 public class MyNode {
   private MyNode father;
