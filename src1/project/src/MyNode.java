@@ -31,6 +31,7 @@ public class MyNode {
   }
 
   /**
+   //hej hej mndskjs
    * Sets the vlaue of this node.
    *
    * @param value The new value of this node.
