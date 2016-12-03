@@ -2,7 +2,7 @@ package tree;
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
- * detta är en ändring 3
+ * detta ï¿½r en ï¿½ndring 3
  * @author Torbjorn Ekman
  * @see MyTree
  */
@@ -14,7 +14,7 @@ public class MyNode {
 
   /**
    * Class constructor initializing this node's value.
-   * 
+   * fsdfsad
    * @param value The value of this node.
    */
   public MyNode(int value) {
