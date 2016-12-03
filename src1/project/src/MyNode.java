@@ -2,8 +2,12 @@ package tree;
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
+<<<<<<< HEAD
  
 
+=======
+ * detta �r en �ndring 3
+>>>>>>> b5134366bed18c5a392db97908f445dcb0a367c9
  * @author Torbjorn Ekman
  * @see MyTree kasjhflasjdhfasijhasi
  */
@@ -15,7 +19,7 @@ public class MyNode {
 
   /**
    * Class constructor initializing this node's value.
-   * 
+   * fsdfsad
    * @param value The value of this node.
    */
   public MyNode(int value) {
